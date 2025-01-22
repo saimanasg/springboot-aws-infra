@@ -1,0 +1,9 @@
+[submodule "infrastructure_terraform"]
+	path = infrastructure_terraform
+	url = https://github.com/saimanasg/infrastructure_terraform
+[submodule "webapp_spring_boot"]
+	path = webapp_spring_boot
+	url = https://github.com/saimanasg/webapp_spring_boot
+[submodule "serverless_lambda_python"]
+	path = serverless_lambda_python
+	url = https://github.com/saimanasg/serverless_lambda_python
